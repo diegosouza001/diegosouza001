@@ -28,6 +28,6 @@ Transformo problemas complexos em sistemas web modernos, rápidos e intuitivos. 
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegosouza001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosouza001&layout=compact&theme=dark&hide=html,css"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=diegosouza001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosouza001&layout=compact&theme=dark&hide=html,css"/>
 </p>
